@@ -1,7 +1,7 @@
 AndroidSmartUpdates
 ===================
 Android Smart Updates is an Open Source library that make patch way update in android easily.<br>
-Server is base on Ruby on Rails.<br>
+And server is base on Ruby on Rails.<br>
 Link to server source code [AndroidSmartUpdatesServer][1]
 
 Demo

@@ -1,7 +1,7 @@
 [![Overview](https://raw.github.com/SpecialCyCi/AndroidSmartUpdates/master/preview.png)]
 AndroidSmartUpdates
 ===================
-Android Smart Updates is an Open Source library that make patch way update(using [bsdiff][3])  in android easily.<br>
+Android Smart Updates is an Open Source library that makes patch way update(using [bsdiff][3])  in android easily.<br>
 And server is base on Ruby on Rails.<br>
 Link to server source code [AndroidSmartUpdatesServer][1]
 
@@ -20,6 +20,7 @@ Usage
 1. create an application in AndroidSmartUpdatesServer,and mark down the App ID.
 2. copy the files in the folder ***libs*** your main module directory.<br>
 3. add below permission in your AndroidManifest.xml
+
 >     <uses-permission android:name="android.permission.INTERNET"/>
 >     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
 

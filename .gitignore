@@ -13,8 +13,6 @@ aa-gen/
 aa-gen-test/
 target/
 obj/
-bin/
-gen/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -31,4 +29,3 @@ proguard/
 *.ipr
 *.iws
 .idea/
-

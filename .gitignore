@@ -11,6 +11,7 @@
 # generated files
 aa-gen/
 aa-gen-test/
+gen/
 target/
 obj/
 

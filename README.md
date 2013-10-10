@@ -1,7 +1,7 @@
 [![Overview](https://raw.github.com/SpecialCyCi/AndroidSmartUpdates/master/preview.png)]
 AndroidSmartUpdates
 ===================
-Android Smart Updates is an Open Source library that make patch way update in android easily.<br>
+Android Smart Updates is an Open Source library that make patch way update(using [bsdiff][3])  in android easily.<br>
 And server is base on Ruby on Rails.<br>
 Link to server source code [AndroidSmartUpdatesServer][1]
 
@@ -63,3 +63,4 @@ Email: specialcyci#gmail.com
 
   [1]: https://github.com/SpecialCyCi/AndroidSmartUpdatesServer
   [2]: https://github.com/SpecialCyCi/AndroidSmartUpdatesDemo
+  [3]: http://www.daemonology.net/bsdiff/

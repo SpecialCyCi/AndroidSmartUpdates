@@ -1,3 +1,4 @@
+[![Overview](https://raw.github.com/SpecialCyCi/AndroidSmartUpdates/master/preview.png)]
 AndroidSmartUpdates
 ===================
 Android Smart Updates is an Open Source library that make patch way update in android easily.<br>

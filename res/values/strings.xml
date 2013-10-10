@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_title">Android Smart Updates</string>
+    <string name="dialog_title">Smart Updates</string>
+    <string name="dialog_positive_button">Update</string>
+    <string name="dialog_negative_button">Cancel</string>
+    <string name="notification_downloading_progress">Downloading progress:</string>
+    <string name="toast_sdcard_not_existed">Sorry, your SDCard is not existed.We can not find
+        any space to download the update files.</string>
+    <string name="toast_download_error">There were some problems occurring when downloading.Please check your network
+        environment.
+    </string>
+    <string name="toast_application_not_existed">Sorry, your current application is not existed in the update
+        server.please ensure that you download from official website.
+    </string>
+    <string name="toast_parse_error">There were some error occured when parse the message from server.Please check your network status.
+    </string>
+    <string name="toast_current_version_not_existed">Your version is not exited in update server.Please make sure that you
+         download from official website.
+    </string>
+    <string name="toast_package_name_not_match">Your application is not match the application in update server.Please
+        make sure that you download from official website.
+    </string>
+    <string name="dialog_version_name">Version Name:</string>
+    <string name="dialog_update_time">Update Time:</string>
+    <string name="dialog_patch_file_size">Patch Size:</string>
+</resources>

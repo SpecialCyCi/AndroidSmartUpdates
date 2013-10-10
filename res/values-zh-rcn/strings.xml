@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_title">安卓增量更新</string>
+    <string name="dialog_title">增量更新</string>
+    <string name="dialog_positive_button">更新</string>
+    <string name="dialog_negative_button">取消</string>
+    <string name="notification_downloading_progress">下载进度:</string>
+    <string name="toast_sdcard_not_existed">抱歉，您的SDCard不存在，我们无法下载更新文件</string>
+    <string name="toast_download_error">在获取更新信息过程中出现问题，请检测您的网络环境</string>
+    <string name="toast_application_not_existed">抱歉，您所下载的应用程序并不存在在更新服务器中，请您务必从官方渠道下载本软件</string>
+    <string name="toast_parse_error">解释服务器返回消息错误，请检测您的网络环境</string>
+    <string name="toast_current_version_not_existed">抱歉，您的版本在更新服务器中不存在，请您务必从官方渠道下载本软件</string>
+    <string name="toast_package_name_not_match">您的应用程序信息与更新服务器中信息不符，请您务必从官方渠道下载本软件</string>
+    <string name="dialog_version_name">版本:</string>
+    <string name="dialog_update_time">更新日期:</string>
+    <string name="dialog_patch_file_size">补丁大小:</string>
+</resources>
